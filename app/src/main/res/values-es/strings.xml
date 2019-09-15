@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="register_label">Registrate para almacenar tus datos o presiona continuar.</string>
+    <string name="btn_reg_email">Inicia con tu correo</string>
+    <string name="btn_reg_google">Inicia con Google</string>
+    <string name="btn_reg_facebook">Inicia con Facebook</string>
+    <string name="label_or">O</string>
+    <string name="btn_reg_invite">Iniciar como invitado</string>
+    <string name="reg_tos_pp">Terminos del servicio y Políticas de Privacidad</string>
+    <string name="first_name">Nombre</string>
+    <string name="last_name">Apellidos</string>
+    <string name="email">Correo electrónico</string>
+    <string name="save">Guardar</string>
+</resources>

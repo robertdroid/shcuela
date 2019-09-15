@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Escuelapp</string>
+    <string name="facebook_app_id" translatable="false">Facebook App ID</string>
+    <string name="facebook_application_id" translatable="false">@string/facebook_app_id</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fbYOUR_APP_ID</string>
+    <string name="register_label">Register to store your data or press continue.</string>
+    <string name="btn_reg_email">Start with email</string>
+    <string name="btn_reg_google">Start with Google</string>
+    <string name="btn_reg_facebook">Start with Facebook</string>
+    <string name="label_or">Or</string>
+    <string name="btn_reg_invite">Start as a guest</string>
+    <string name="reg_tos_pp">Terms of Service and Privacy Policy</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="save">Save</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "743199455175",
+    "firebase_url": "https://escuelapp-e32e4.firebaseio.com",
+    "project_id": "escuelapp-e32e4",
+    "storage_bucket": "escuelapp-e32e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743199455175:android:083e1201fa5098bfce8be2",
+        "android_client_info": {
+          "package_name": "net.devrob.escuelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743199455175-7fjc09omi17g8h5rl72di8l1g667o6b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXO9Hvt22xnLj7nDsZtorFzQ2siSLD5Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743199455175-7fjc09omi17g8h5rl72di8l1g667o6b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
